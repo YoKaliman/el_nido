@@ -2,6 +2,6 @@ sample file to do some testing on it
 edit
 add
 commit
-push
+push + more
 pull
 etc
