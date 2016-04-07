@@ -10,6 +10,12 @@ etc
 #Edited By Javier
 #Line added by Javier
 
-#este cambio lo hizo Kaliman
+# este cambio lo hizo Kaliman
+
 # Ahora yo hice este otro cambio
-#Y otro mas
+# Y otro mas
+=======
+
+#Este cambio debe causar conflictos con los de Rigo
+# Todo Arreglado
+# Todo bien
